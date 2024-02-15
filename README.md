@@ -49,6 +49,3 @@ This set of graphs compares the labor force participation rate and unemployment 
 
 ## Usage
 To run the analysis, you'll need an API key from FRED. Set up the API key in your environment and execute the Jupyter Notebook cell by cell.
-
-## Contributing
-Contributions are welcome. Please open an issue first to discuss what you would like to change or add.
